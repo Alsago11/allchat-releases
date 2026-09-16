@@ -1,10 +1,12 @@
 {
-  "version": "0.59",
-  "publicada": "2026-09-09",
+  "version": "0.60",
+  "publicada": "2026-09-16",
   "novedades": [
-    "Si tienes AllChat de la Microsoft Store, ya te enteras de las versiones nuevas sin ir a buscarlas. Cuando una versión nueva esté en la Store, la flecha de arriba de Ajustes se enciende y Ayuda te dice cuál es. Antes la Store solo actualizaba al reiniciar el PC, y quien no reiniciaba se quedaba atrás sin saberlo.",
-    "Y la instalas desde dentro. En la copia de la Store, \"Actualizar ahora\" se lo pide a la propia Store: te pregunta si quieres bajarla, la baja y la instala sin que abras la Store. Si la Store todavía no la tiene lista para tu PC, AllChat te abre su pantalla de actualizaciones y te lo dice, en vez de dejarte esperando. Y \"Buscar actualizaciones\" de Ayuda también funciona ahí.",
-    "Valorar AllChat en la Store. En la copia de la Microsoft Store, Ayuda tiene un botón que abre la página de valoraciones. Si AllChat te está sirviendo, una valoración ayuda a que más gente lo encuentre. Un minuto, y se agradece de verdad.",
-    "Reportar un problema ya no te lleva a un formulario: abre el canal de fallos del Discord de AllChat, donde se leen y se contestan. Y al lado, un botón abre la carpeta del registro para que arrastres registro.log al mensaje si te lo pedimos. Ese registro no lleva lo que escribes: solo cuántas palabras eran y qué hizo AllChat."
+    "AllChat ya habla inglés. En Ajustes > Idiomas, \"Idioma de AllChat\" cambia la app entera al momento y sin reiniciar: esta ventana, las tarjetas y el menú del icono de la bandeja. Lo que corriges y a qué traduces no cambia por eso: eso lo siguen diciendo \"Tu idioma\" y \"Traducir a\".",
+    "El modo \"Frase\" ahora se llama \"Corrección\". No ha desaparecido ni hace nada distinto: al parar de escribir te propone tu frase corregida y ENTER la aplica. Solo tiene un nombre que dice lo que hace.",
+    "Quien instala AllChat por primera vez ve ahora una pantalla de bienvenida, y lo primero que hace es elegir el idioma de la app. Viene ya marcado el de su Windows. Si ya tenías AllChat no te sale: sigues con el idioma que tenías.",
+    "Un tour de cuatro pasos para dejar AllChat a tu gusto: tus idiomas, qué hace mientras escribes, el atajo que traduce y envía, y si arranca con Windows. Sale la primera vez, se puede saltar, y lo que eliges ahí se guarda igual que en Ajustes. Si ya tenías AllChat o te lo saltaste, está en Ayuda: \"Ver el tour otra vez\".",
+    "El plan gratis pasa de 10 a 25 traducciones al día, y ahora cuentan como las ves tú: un mensaje es una traducción. Mientras escribes, AllChat traduce tu frase en cada pausa para tenerla lista, y antes cada una de esas pausas gastaba del contador aunque no enviaras nada. Ya no: aunque la traduzca varias veces mientras la escribes, y aunque además uses Ctrl+Alt+A, ese mensaje cuenta una. Leer un texto o traducir lo que seleccionas cuenta una cada vez, como siempre.",
+    "Si un juego o un programa se ejecuta como administrador, Windows no deja que AllChat vea lo que escribes dentro, y hasta ahora AllChat se quedaba callado sin explicarte por qué. Ahora te lo dice en Ajustes y, si se arregla con una casilla de Windows, con una tarjeta: \"Llévame a la casilla\" te abre esa ventana para que la quites tú. AllChat no la toca por su cuenta, porque hay programas que la necesitan de verdad."
   ]
 }
