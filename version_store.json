@@ -1,12 +1,9 @@
 {
-  "version": "0.60",
-  "publicada": "2026-09-16",
+  "version": "0.62",
+  "publicada": "2026-10-22",
   "novedades": [
-    "AllChat ya habla inglés. En Ajustes > Idiomas, \"Idioma de AllChat\" cambia la app entera al momento y sin reiniciar: esta ventana, las tarjetas y el menú del icono de la bandeja. Lo que corriges y a qué traduces no cambia por eso: eso lo siguen diciendo \"Tu idioma\" y \"Traducir a\".",
-    "El modo \"Frase\" ahora se llama \"Corrección\". No ha desaparecido ni hace nada distinto: al parar de escribir te propone tu frase corregida y ENTER la aplica. Solo tiene un nombre que dice lo que hace.",
-    "Quien instala AllChat por primera vez ve ahora una pantalla de bienvenida, y lo primero que hace es elegir el idioma de la app. Viene ya marcado el de su Windows. Si ya tenías AllChat no te sale: sigues con el idioma que tenías.",
-    "Un tour de cuatro pasos para dejar AllChat a tu gusto: tus idiomas, qué hace mientras escribes, el atajo que traduce y envía, y si arranca con Windows. Sale la primera vez, se puede saltar, y lo que eliges ahí se guarda igual que en Ajustes. Si ya tenías AllChat o te lo saltaste, está en Ayuda: \"Ver el tour otra vez\".",
-    "El plan gratis pasa de 10 a 25 traducciones al día, y ahora cuentan como las ves tú: un mensaje es una traducción. Mientras escribes, AllChat traduce tu frase en cada pausa para tenerla lista, y antes cada una de esas pausas gastaba del contador aunque no enviaras nada. Ya no: aunque la traduzca varias veces mientras la escribes, y aunque además uses Ctrl+Alt+A, ese mensaje cuenta una. Leer un texto o traducir lo que seleccionas cuenta una cada vez, como siempre.",
-    "Si un juego o un programa se ejecuta como administrador, Windows no deja que AllChat vea lo que escribes dentro, y hasta ahora AllChat se quedaba callado sin explicarte por qué. Ahora te lo dice en Ajustes y, si se arregla con una casilla de Windows, con una tarjeta: \"Llévame a la casilla\" te abre esa ventana para que la quites tú. AllChat no la toca por su cuenta, porque hay programas que la necesitan de verdad."
+    "La tarjeta de la frase traductora te llega antes, y la de Corrección también. AllChat perdía un segundo cada vez que consultaba a su corrector, el que vive en tu PC, y la frase traductora lo consulta dos veces antes de traducir. Ahora va directo: la propuesta sale hasta dos segundos antes, a tiempo de que no sigas escribiendo.",
+    "Si escribes en inglés, la \"I\" del principio ya no se queda en minúscula. Pasaba al hacer clic en la caja y empezar por \"i\": la tarjeta proponía \"i don't...\" en vez de \"I don't...\". Ahora \"I\" y sus contracciones (I'm, I'll, I'd, I've) salen siempre en mayúscula.",
+    "Si acabas el tour con el modo en Apagado, la última pantalla te avisa de que así AllChat no hará nada mientras escribes, con un botón para elegir un modo. Los modos siguen viniendo apagados de fábrica: eliges tú."
   ]
 }
