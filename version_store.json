@@ -1,9 +1,11 @@
 {
-  "version": "0.62",
-  "publicada": "2026-10-22",
+  "version": "0.63",
+  "publicada": "2026-10-28",
   "novedades": [
-    "La tarjeta de la frase traductora te llega antes, y la de Corrección también. AllChat perdía un segundo cada vez que consultaba a su corrector, el que vive en tu PC, y la frase traductora lo consulta dos veces antes de traducir. Ahora va directo: la propuesta sale hasta dos segundos antes, a tiempo de que no sigas escribiendo.",
-    "Si escribes en inglés, la \"I\" del principio ya no se queda en minúscula. Pasaba al hacer clic en la caja y empezar por \"i\": la tarjeta proponía \"i don't...\" en vez de \"I don't...\". Ahora \"I\" y sus contracciones (I'm, I'll, I'd, I've) salen siempre en mayúscula.",
-    "Si acabas el tour con el modo en Apagado, la última pantalla te avisa de que así AllChat no hará nada mientras escribes, con un botón para elegir un modo. Los modos siguen viniendo apagados de fábrica: eliges tú."
+    "Conecta tu Discord y te regalamos 50 traducciones, una vez por cuenta. Lo tienes en Ajustes > Premium > Tu Discord, con el botón «Conectar y conseguir 50»: te llegan al pulsar «Acepto las reglas» en el Discord de AllChat. Se gastan después de tus 25 de cada día y no caducan. Si eres Premium no hay regalo, porque ya traduces sin límite, pero conectando entras con tu rol y tus canales.",
+    "Cuando gastas tus 25 traducciones del día, la tarjeta ya no solo avisa: trae el botón «Conseguir 50 gratis», que te lleva al Discord para que sigas traduciendo ahora. Y cuando gastas la última de regalo, una tarjeta te lo dice. La corrección sigue siempre, sin límite.",
+    "En Ajustes > Premium, debajo de las traducciones que llevas hoy, ves cuántas de regalo te quedan.",
+    "AllChat tiene su propio Discord y ahora te invita a entrar: a quien empieza, justo después de verificar el correo, y a quien ya usa AllChat, con una tarjeta que sale una sola vez cuando llevas dos días escribiendo. «Ahora no» la cierra y no vuelve a insistir. Si ya tienes tu Discord conectado, no te sale.",
+    "En los juegos, moverte con el chat cerrado ya no saca tarjetas. Pasaba con la Predicción y al seguir jugando después de enviar un mensaje. Ahora, si AllChat ve que mantienes las teclas para moverte, entiende que estás jugando y se calla hasta el siguiente Enter; y en los juegos a pantalla completa solo te propone algo con el chat abierto."
   ]
 }
